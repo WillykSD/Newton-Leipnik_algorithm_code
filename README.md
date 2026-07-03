@@ -1,5 +1,5 @@
 # Newton-Leipnik_algorithm_code
-code for paper "Fractional properties' effects on a hybrid energy harvesting system dynamics"
+Codes for paper "Fractional properties' effects on a hybrid energy harvesting system dynamics"
 
 # Contact
 Please let us know (wilsonkenfack@gmail.com) if you have any question about the algorithms/paper.
